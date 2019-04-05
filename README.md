@@ -28,3 +28,7 @@ Ajax_Example_contains:
                        
 Calculator javascript contains:
                         calculator.html
+
+Image_upload_example contains:
+                        application.html
+                        upload.php
